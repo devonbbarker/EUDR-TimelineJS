@@ -43,7 +43,7 @@ https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;700
   .tl-timeline {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.3em;
   }
   .tl-timeline h1,
@@ -55,17 +55,17 @@ https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;700
     font-family: 'Montserrat', sans-serif;
     text-transform: none;
     font-weight: 400;
-    font-size: 42px;
-    line-height: 42px;
+    font-size: 32px;
+    line-height: 32px;
   }
   .tl-timeline h2.tl-headline-title {
-    font-size: 38px;
-    line-height: 38px;
+    font-size: 28px;
+    line-height: 28px;
   }
   .tl-timeline p {
     font-family: 'Raleway', sans-serif;
-    font-size: 16px;
-    line-height: 1.3em;
+    font-size: 14px;
+    line-height: 1.2em;
   }
   .tl-timeline ul {
     font-family: 'Raleway', sans-serif;
