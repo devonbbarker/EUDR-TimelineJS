@@ -55,8 +55,8 @@ https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;700
     font-family: 'Montserrat', sans-serif;
     text-transform: none;
     font-weight: 400;
-    font-size: 32px;
-    line-height: 32px;
+    font-size: 18px;
+    line-height: 28px;
   }
   .tl-timeline h2.tl-headline-title {
     font-size: 28px;
@@ -105,6 +105,8 @@ https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;700
     font-family: 'Raleway', sans-serif !important;
     font-weight: normal !important;
     text-transform: none !important;
+    font-size: 14px;
+    line-height: 20px;
   }
   .tl-timeline .tl-headline-date small,
   .tl-timeline h3.tl-headline-date small {
